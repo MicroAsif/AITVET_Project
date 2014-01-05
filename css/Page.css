@@ -1,0 +1,16 @@
+﻿* {
+    margin: 0px;
+    padding: 0px;
+}
+    .page {
+     background-color: #dedfe0;
+     margin: 0px;
+     padding:0px;
+
+}
+    .page h1 {
+        margin: 10px 20px;
+    }
+    .page p {
+        margin: 10px 20px;
+    }
